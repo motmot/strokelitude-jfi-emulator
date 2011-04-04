@@ -8,10 +8,12 @@
   module: jfi_emulator
   single: jfi_emulator
 
-This is a plugin for strokelitude to output analog voltages via `wjUL
+This is a plugin for Strokelitude to output analog voltages via `wjUL
 <http://code.astraw.com/wjUL/>`_ and a Measurement Computing USB1208FS
 device to output voltage proportional to amplitude of wingstroke
-envelope.
+envelope. The goal is to make Strokelitude maximally compatible with
+the Wingbeat Analyzer produced by the James Franck Institute
+Electronics Laboratory of the University of Chicago.
 
 This is open source software, released under the BSD license. The
 source code is available at
